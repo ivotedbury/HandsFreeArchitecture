@@ -9,14 +9,18 @@ Physical devices to reduce transmission of germs on shared surfaces
 
 -> As a first step, focus on high traffic doors where the majority of traffic for a building passes through. 
 
-**Example:**
+**An example:**
 
-1. My apartment block is in a courtyard with a front gate where 3 blocks of people pass through requiring a pull handle to exit (high traffic)
-2. My actual block (25 flats) has an entrance door - entering the requires a pull handle (medium traffic).
-3. Then theres either the lift (press buttons) or stairs (requires at least one pull handle) (low traffic).
-4. Then my front door which is a more complicated twist handle (low traffic i.e. only me).
+1. My apartment block is in a courtyard with a front gate where 3 blocks of people pass through requiring a pull handle to exit (~150 people - high traffic)
+2. My actual block (~25 flats) has an entrance door - entering the requires a pull handle (~40 people - medium traffic).
+3. Then there's either the lift - press buttons (~ 30 people - medium traffic) or stairs - requires at least one pull handle (~10 people - low traffic).
+4. Then my front door which is a more complicated twist handle (very low traffic i.e. only me).
 
-Everyone might use the same toilet door in an office. 
+Other examples:
+
+- Everyone might use the same toilet door in an office. 
+- Lots of shops have a pull door to exit.
+- Most modern indoor fire doors will have a pull handle in one direction. 
 
 **Existing solutions**
 
