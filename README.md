@@ -1,4 +1,4 @@
-# InterfaceHacks
+# Hands-Free Architecture
 Physical devices to reduce transmission of germs on shared surfaces
 
 ## 1. Door pull adaptor
@@ -16,11 +16,11 @@ Physical devices to reduce transmission of germs on shared surfaces
 3. Then there's either the lift - press buttons (~ 30 people - medium traffic) or stairs - requires at least one pull handle (~10 people - low traffic).
 4. Then my front door which is a more complicated twist handle (very low traffic i.e. only me).
 
-Other examples:
+**Other examples:**
 
-- Everyone might use the same toilet door in an office. 
+- Most modern indoor fire doors will have a pull handle in one direction - start looking around you.
+- Most people use the same door to the toilets in an office. 
 - Lots of shops have a pull door to exit.
-- Most modern indoor fire doors will have a pull handle in one direction. 
 
 **Existing solutions**
 
